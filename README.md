@@ -3,6 +3,6 @@ A completely Responsive Whatsapp UI App- works on Android, iOS, Web & Desktop! W
 # Live Demo
 https://anmaya.github.io/WhatsappUI/
 # Desktop View
-https://github-production-user-asset-6210df.s3.amazonaws.com/121070973/275213194-95480af7-3e6a-4330-af76-c71a355149cc.jpg
+![Screenshot 2023-10-14 174144](https://github.com/anmaya/WhatsappUI/assets/121070973/65b2240f-045e-4245-b11f-e517d5a24fa3)
 # Mobile View
-https://github-production-user-asset-6210df.s3.amazonaws.com/121070973/275247649-321df3f6-3ea0-4745-9deb-417362dcd52a.jpg
+![20231014_174749](https://github.com/anmaya/WhatsappUI/assets/121070973/ee6e9093-4697-41c4-b479-fd530cb64e11)
